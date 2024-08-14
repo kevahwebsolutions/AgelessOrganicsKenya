@@ -1,0 +1,73 @@
+<style>
+    .product-men {
+        margin-bottom: 30px;
+    }
+
+    .product-toys-info {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .men-thumb-item {
+        position: relative;
+    }
+
+    .men-thumb-item img {
+        width: 100%;
+        height: auto;
+    }
+
+    .product-new-top {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background: #ff0000;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 3px;
+        font-size: 12px;
+    }
+
+    .item-info-product {
+        padding: 15px;
+    }
+
+    .info-product-price {
+        margin-bottom: 15px;
+    }
+
+    .product_price h4 {
+        margin: 0;
+    }
+
+    .stars {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-size: 16px;
+        color: #f39c12;
+    }
+
+    .stars li {
+        display: inline-block;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        color: #fff;
+        padding: 10px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+</style>
