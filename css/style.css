@@ -1073,7 +1073,7 @@ footer {
   .hedder-up,
   .info-top-grid,
   nav.navbar.navbar-expand-lg.navbar-light {
-    padding: 1em 2em;
+    padding: 0em 2em;
   }
   .navbar-light .navbar-nav .nav-link {
     letter-spacing: 1px;
